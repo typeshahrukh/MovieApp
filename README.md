@@ -21,6 +21,3 @@ JavaScript for interactivity and API requests
 The Movie Database API for movie data
 Contributing
 If you would like to contribute to the Movie App, please fork the repository and submit a pull request with your changes.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
